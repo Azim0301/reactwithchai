@@ -10,7 +10,8 @@ import About from './components/about/About.jsx'
 import Contact from './components/contact/Contact.jsx'
 import NotFound from './NotFound.jsx'
 import User from './components/user/User.jsx'
-import Github ,{githubInfoLoader} from './components/github/Github.jsx'
+import Github from './components/github/Github.jsx'
+import { githubInfoLoader } from './components/github/Github.jsx'
 
 
 // const router = createBrowserRouter([
